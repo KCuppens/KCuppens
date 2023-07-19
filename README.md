@@ -8,7 +8,7 @@ Passionate test-driven django developer who loves to learn new things and attrac
 
 * 🌍  I'm based in Dubai/Belgium
 * ✉️  You can contact me at [kobecuppens@hotmail.com](mailto:kobecuppens@hotmail.com)
-* 🧠  I'm learning React / Solidity
+* 🧠  I'm learning Machine learning
 
 ### Skills
 
